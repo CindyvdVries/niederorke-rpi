@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.267b1f1552819a685270e6524b0e2ef8.js"
+  "/precache-manifest.e9614776fb7804dac8d5b14ef2b0fab6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "niederorke-rpi"});
