@@ -1,7 +1,8 @@
 <template>
-  <div>
+  <v-card fill-heighth widht="100%" class="ma-3">
+    <v-card-title>{{ $route.params.sensor }}</v-card-title>
     <v-chart :options="options"> </v-chart>
-  </div>
+  </v-card>
 </template>
 
 <script>
@@ -33,7 +34,7 @@ export default {
         const dates = []
         response.forEach(row => {
           dates.push(row.time)
-          data.push(row.temp)
+          data.push(parseFloat(row.temp))
         })
         this.options = {
           xAxis: {
