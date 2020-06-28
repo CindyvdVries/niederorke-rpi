@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5d884326df0ec5a0e58",
+    "revision": "12857bc3f378896e1153",
     "url": "/niederorke-rpi/css/app.dae04a26.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/niederorke-rpi/fonts/materialdesignicons-webfont.dc85ceeb.woff2"
   },
   {
-    "revision": "8f2daf0c5a62134e62ad72f256241caf",
+    "revision": "cc51e65e6838cd727d90c164feea9f7d",
     "url": "/niederorke-rpi/index.html"
   },
   {
-    "revision": "a5d884326df0ec5a0e58",
-    "url": "/niederorke-rpi/js/app.dc96d410.js"
+    "revision": "12857bc3f378896e1153",
+    "url": "/niederorke-rpi/js/app.a6f84e2e.js"
   },
   {
     "revision": "43a2f41fa03b2d64755d",
